@@ -36,3 +36,46 @@
     transform: rotate(360deg);
   }
 }
+
+
+.h1class{
+  background-color: darkgoldenrod;
+  border-radius: 2px;
+  text-align: center;
+  align-items: center;
+  align-content: center;
+  font-size: large;
+  font-family: cursive;
+  align-items: center;
+  color: white;
+}
+
+#Div{
+  padding: 10%;
+  background-color:  #002244;
+  color: beige;
+  font-size: larger;
+  font-family: cursive;
+  margin-top: 3px;
+  margin-bottom: 3px;
+  text-align: center;
+  align-items: center;
+  align-content: center;
+}
+
+/* .forWholebg{
+  background-color: #002244;
+  border-radius: 3px;
+  border-color: aliceblue;
+  border-width: 10px;
+  
+} */
+
+.formBg{
+  background-color: #007791;
+  border-radius: 5px;
+  border-color: white;
+  padding: 5%;
+  width: max-content;
+  margin: auto;
+}
